@@ -55,6 +55,7 @@ header ul{
     display: flex;
     flex-direction: row; 
     justify-content: space-between;
+    padding-top: 30px;
 }
 
 .headfoot{
@@ -88,34 +89,6 @@ header ul{
     flex-direction: column; 
     width: 414px;
 }
-
-/* #work-narika{
-    background-image: url(../images/gb2.png);
-    background-size: cover;
-    height: 787px;
-    color: white;
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 1fr 1fr 1fr;
-    margin-top: 0;
-    margin-bottom: -150px;
-}
-
-#work-text{
-    grid-column-start: 1;
-    grid-row-start: 1;
-}
-
-#narika{
-    grid-column-start: 1;
-    grid-row-start: 3;
-}
-
-#work-narika img{
-    grid-column-start: 2;
-    grid-row-start: 2;
-}
-*/
 
 #narika{
     background-image: url(../images/gb2.png);
