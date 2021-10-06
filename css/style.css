@@ -162,6 +162,14 @@ header ul{
     text-decoration: none;
 }
 
+a .headfoot {
+    color: #E2C6C6;
+}
+
+a {
+    text-decoration: none;
+}
+
 footer{
     background-image: url(../images/footer\ pale.png);
     background-size: cover;
