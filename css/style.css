@@ -102,6 +102,10 @@ header ul{
     width: auto;
 }
 
+a #narika-text {
+    color: black;
+}
+
 #watchify{
     color: black;
     display: flex;
